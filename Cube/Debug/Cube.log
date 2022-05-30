@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\FinnyJakey\Desktop\2022-01\프로그래밍랩\Cube\main.c(60,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\FinnyJakey\Desktop\2022-01\프로그래밍랩\Cube\main.c(496): warning C4715: 'rotateCheck': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Cube.vcxproj -> C:\Users\FinnyJakey\Desktop\2022-01\프로그래밍랩\Cube\Debug\Cube.exe

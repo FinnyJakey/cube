@@ -1,0 +1,2 @@
+C:\Users\FinnyJakey\Desktop\2022-01\프로그래밍랩\Cube\Debug\Cube.exe
+C:\Users\FinnyJakey\Desktop\2022-01\프로그래밍랩\Cube\Debug\Cube.pdb
