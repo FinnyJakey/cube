@@ -17,7 +17,7 @@
 ① 굴릴 때 큐브와 맞닿는 타일은 서로 색깔을 바꾼다. 
 ② 굴릴 때마다 Move++
 ③ 가능한 한 적게 움직이는 것이 게임의 목표
-(4) Double Buffering 사용 - 큐브가 구르는 모션 Flickering 최소화4. 
+(4) Double Buffering 사용 - 큐브가 구르는 모션 Flickering 최소화
 
 4. 프로젝트 소감 :
 
